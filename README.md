@@ -47,9 +47,15 @@
 -  IPO에 없는애들은 merger로 한애들임, 이거 고려해야됌
 -  Features: 나라, 섹터,  volume, income statement
 -  Cohort analysis
--  동우: Master Table 만들기
+-  ~~동우: Master Table 만들기~~ -> 수정은 필요할수도 있음?
 -  ~~승재: IPO csv 만들기~~
   > new IPO Calendar: `./IPO/ipo_calendar.csv` updated on Jul 10, 2023 (Data source: [Investing.com](https://kr.investing.com/ipo-calendar/))
 -  추가적으로 더 시간나면 하기.
 
 -  예측모델은 multiple regression으로 distribution 예측하고 -> MCS로 close price 예측하기
+
+
+## 다음미팅 
+-  master table 가지고 연구해볼게 많은것 같음
+-  현재 performance 분석은 단순계산이므로, 테이블 가지고 공부하면 괜찮은 지표가 나올거 같음
+-  그냥 평균값, 중간값으로 볼땐 당장 상장주식 사서 행복회로 돌리고 싶음 ㅇㅇ 
