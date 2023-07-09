@@ -48,7 +48,7 @@
 -  Features: 나라, 섹터,  volume, income statement
 -  Cohort analysis
 -  동우: Master Table 만들기
-~~-  승재: IPO csv 만들기~~
+-  ~~승재: IPO csv 만들기~~
   > new IPO Calendar: `./IPO/ipo_calendar.csv` updated on Jul 10, 2023 (Data source: [Investing.com](https://kr.investing.com/ipo-calendar/))
 -  추가적으로 더 시간나면 하기.
 
