@@ -47,4 +47,11 @@
 # Meeting Minutes
 
 ## July 9th
--  
+-  IPO에 없는애들은 merger로 한애들임, 이거 고려해야됌
+-  Features: 나라, 섹터,  volume, income statement
+-  Cohort analysis
+-  동우: Master Table 만들기
+-  승재: IPO csv 만들기
+-  추가적으로 더 시간나면 하기
+
+-  예측모델은 multiple regression으로 distribution 예측하고 -> MCS로 close price 예측하기
