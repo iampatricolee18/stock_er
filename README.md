@@ -42,16 +42,13 @@
       2) 차트 및 지표 비교? -> 클래식하게 7일 이평선이 60일 이평선을 돌파하는 경우 등등
       3) 상장 직후라 정보가 부족하겠지만, 그럼에도 재무제표 확인 -> 매출, 이익, 현금 보유 등
 
-
-
 # Meeting Minutes
-
 ## July 9th
 -  IPO에 없는애들은 merger로 한애들임, 이거 고려해야됌
 -  Features: 나라, 섹터,  volume, income statement
 -  Cohort analysis
 -  동우: Master Table 만들기
 -  승재: IPO csv 만들기
--  추가적으로 더 시간나면 하기
+-  추가적으로 더 시간나면 하기.
 
 -  예측모델은 multiple regression으로 distribution 예측하고 -> MCS로 close price 예측하기
